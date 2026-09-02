@@ -1,5 +1,6 @@
 # Responsive Web Design
 
+
 Estimated Reading Time: 15 minutes
 
 Prerequisites: [CSS Width](12-css-width.md), [CSS Display](17-css-display.md), [CSS Navigation Bar](26-css-navigation-bar.md)
